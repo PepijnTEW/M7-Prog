@@ -12,3 +12,6 @@ de website is voor mensen die geintreseert zijn in mij als persoon en in mijn pr
 2. ik ga ergens een form implementeren (ik weet nog niet waar)
 3. een dashboard om dingen up te loaden
 4. iets waar je op kan filteren
+### wat gaat de stijl zijn
+
+het wordt een donker blauwe stijl die er best kalm uit ziet
